@@ -117,3 +117,7 @@ h1 {
 #geolocation {
 	display:none;
 }
+
+#location {
+	background-image:none;
+}
